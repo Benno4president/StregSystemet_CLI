@@ -1,0 +1,119 @@
+InsertCashTransaction: User: Robert King (rking), kr. 6000, Date: (26/11/2020 18.50.23) ID: 3b443ff8-7a8f-430e-9135-a5ace607219e
+BuyTransaction: 122 1,5L vand excl. pant (1464 kr), User: rking, Date:(26/11/2020 18.50.39), ID: 2ede0a82-636e-4d05-8db1-53a73ec0e4e5
+InsertCashTransaction: User: Nancy Davolio (ndavo), kr. 60000, Date: (26/11/2020 18.51.14) ID: 7762325d-e37a-498c-b36f-e0a3d200a1e5
+BuyTransaction: 300 ½L vand & kildevand excl. pant (3600 kr), User: rking, Date:(26/11/2020 18.52.11), ID: 0f36b6bb-0183-44a6-a034-84a663d89dd9
+InsertCashTransaction: User: Robert King (rking), kr. 7400, Date: (26/11/2020 18.52.35) ID: b3db35a4-d8f7-4bd1-af49-c294da7649a9
+InsertCashTransaction: User: Robert King (rking), kr. 50, Date: (26/11/2020 18.55.28) ID: 26529f40-c91f-4a86-91a7-85d6adcda3da
+InsertCashTransaction: User: Robert King (rking), kr. 12, Date: (26/11/2020 19.20.41) ID: f335e727-ddc2-42e2-9f72-4135e3f33467
+BuyTransaction: 1 ½L vand & kildevand excl. pant (12 kr), User: rking, Date:(27/11/2020 09.04.19), ID: 2c81ee77-c8ca-46bb-b8df-432e33f2576b
+BuyTransaction: 1 ½L vand & kildevand excl. pant (12 kr), User: rking, Date:(27/11/2020 09.05.31), ID: b5b24acf-749a-4e56-970f-2ab6ffe69d77
+InsertCashTransaction: User: Robert King (rking), kr. 1000, Date: (27/11/2020 09.05.42) ID: a90725d9-329a-43d6-8ddd-5b195583d4f1
+InsertCashTransaction: User: Robert King (rking), kr. 1000, Date: (27/11/2020 15.31.02) ID: 3e0ba06b-f29e-42a0-b1e1-033afc678221
+InsertCashTransaction: User: Robert King (rking), kr. 1000, Date: (27/11/2020 15.31.15) ID: a8156ec5-cd39-4b6a-9b30-9fe3e4ce5681
+InsertCashTransaction: User: Robert King (rking), kr. 1000, Date: (27/11/2020 15.31.16) ID: 9aa0d729-4d83-439c-8745-a0e1caa83262
+InsertCashTransaction: User: Robert King (rking), kr. 1000, Date: (27/11/2020 15.31.17) ID: e4eedb11-9f46-4aaa-a942-42ececb85380
+InsertCashTransaction: User: Robert King (rking), kr. 1000, Date: (27/11/2020 15.31.18) ID: 3146223c-5313-4c25-9ac4-08dc9170cdbc
+InsertCashTransaction: User: Robert King (rking), kr. 1000, Date: (27/11/2020 15.31.18) ID: 44999f75-009d-4682-8685-394b33306f09
+InsertCashTransaction: User: Robert King (rking), kr. 1000, Date: (27/11/2020 15.31.18) ID: aff098df-d3db-45cc-b76f-6be914dd45ab
+InsertCashTransaction: User: Robert King (rking), kr. 1000, Date: (27/11/2020 15.31.19) ID: faa224a4-7054-4d77-9458-9f6ac63e8840
+InsertCashTransaction: User: Robert King (rking), kr. 1000, Date: (27/11/2020 15.31.19) ID: 4a8eff4e-e819-4f94-bd9f-ec5d13568d30
+InsertCashTransaction: User: Robert King (rking), kr. 1000, Date: (27/11/2020 15.31.20) ID: 95c79f24-8f9a-4f27-8dbd-f3a3ac73af22
+InsertCashTransaction: User: Robert King (rking), kr. 1000, Date: (27/11/2020 15.31.20) ID: 7faf1350-fb22-4bb1-81b2-7d1b76ebe36d
+InsertCashTransaction: User: Robert King (rking), kr. 1000, Date: (27/11/2020 15.31.21) ID: 94eee569-c254-40ef-a7c9-2544cd9178ba
+InsertCashTransaction: User: Robert King (rking), kr. 1000, Date: (27/11/2020 15.31.21) ID: 217a87a2-70f8-4edf-84d4-491cfa4565a3
+InsertCashTransaction: User: Robert King (rking), kr. 1000, Date: (27/11/2020 15.31.21) ID: 03044a0c-ea54-41ad-9949-89178884b6ea
+InsertCashTransaction: User: Robert King (rking), kr. 1000, Date: (27/11/2020 15.31.22) ID: fc7c2130-5f8f-41d8-ae1f-f96738ac556b
+InsertCashTransaction: User: Robert King (rking), kr. 1000, Date: (27/11/2020 15.31.22) ID: 1c3003ec-f98d-440b-859b-08defbd91687
+InsertCashTransaction: User: Robert King (rking), kr. 1000, Date: (27/11/2020 15.31.23) ID: 6919b600-249e-445b-9001-bb88e350e644
+InsertCashTransaction: User: Robert King (rking), kr. 1000, Date: (27/11/2020 15.31.23) ID: acb7b3d7-4d3b-448a-944f-67d857612659
+InsertCashTransaction: User: Robert King (rking), kr. 1000, Date: (27/11/2020 15.31.24) ID: 0169a1bd-c549-41fc-84bf-78ac99facda5
+InsertCashTransaction: User: Robert King (rking), kr. 1000, Date: (27/11/2020 15.31.24) ID: 48f1cfc5-5c6c-4882-a403-06fe55e5cc28
+InsertCashTransaction: User: Robert King (rking), kr. 1000, Date: (27/11/2020 15.31.25) ID: b9b25d7b-560f-4d75-acaa-b0ff9dca324f
+InsertCashTransaction: User: Robert King (rking), kr. 1000, Date: (27/11/2020 15.31.26) ID: e57d9db1-557a-42cf-8e2e-e0264ee0f058
+InsertCashTransaction: User: Robert King (rking), kr. 1000, Date: (27/11/2020 15.31.26) ID: a83938c9-181f-4585-a6d6-5ec2b924a3b2
+InsertCashTransaction: User: Robert King (rking), kr. 10, Date: (27/11/2020 15.42.49) ID: 90809a90-79be-4bc6-a643-710f96e599e4
+InsertCashTransaction: User: Robert King (rking), kr. 10, Date: (27/11/2020 15.42.52) ID: ac779714-88f2-445e-8939-b0bfeb3b1e97
+InsertCashTransaction: User: Robert King (rking), kr. 10, Date: (27/11/2020 15.42.53) ID: 800de84d-3b7f-40a0-9721-9e886c982ade
+InsertCashTransaction: User: Robert King (rking), kr. 10, Date: (27/11/2020 15.42.53) ID: fb2aed12-27a3-4773-afe7-ee92087a8e8c
+InsertCashTransaction: User: Robert King (rking), kr. 10, Date: (27/11/2020 15.42.53) ID: d1e947bb-8c15-4b0c-9a07-7e8c877ad3aa
+InsertCashTransaction: User: Robert King (rking), kr. 10, Date: (27/11/2020 15.42.55) ID: ca8630cf-383b-40f2-9f08-3d83b6fab7fd
+InsertCashTransaction: User: Robert King (rking), kr. 10, Date: (27/11/2020 15.42.55) ID: 3b0bb101-4d06-4107-a8b7-a77de7ace3ce
+InsertCashTransaction: User: Robert King (rking), kr. 10, Date: (27/11/2020 15.42.56) ID: d2d9bad9-3694-4e51-a58e-37214cc48ba2
+InsertCashTransaction: User: Robert King (rking), kr. 10, Date: (27/11/2020 15.42.56) ID: 95d36bca-84a0-4bea-afe1-9f1692b6b31d
+InsertCashTransaction: User: Robert King (rking), kr. 10, Date: (27/11/2020 15.42.57) ID: 3693863a-9192-4410-b2cd-7ea85f591e3e
+InsertCashTransaction: User: Robert King (rking), kr. 10, Date: (27/11/2020 15.42.57) ID: d3afe9c4-1ec4-4f27-b02f-027e6a8c741e
+InsertCashTransaction: User: Robert King (rking), kr. 10, Date: (27/11/2020 15.42.58) ID: fda15416-cf46-48d0-919e-d3191b834bc5
+InsertCashTransaction: User: Robert King (rking), kr. 10, Date: (27/11/2020 15.42.58) ID: 28dd3bec-ba36-47fe-8c84-3d9ea30f51eb
+InsertCashTransaction: User: Robert King (rking), kr. 10, Date: (27/11/2020 15.42.59) ID: c3916c5b-1e85-4be8-afb2-71430dfb6389
+InsertCashTransaction: User: Robert King (rking), kr. 10, Date: (27/11/2020 15.42.59) ID: 7f91cbdc-625c-415b-b830-b976a0b0ab44
+InsertCashTransaction: User: Robert King (rking), kr. 10, Date: (27/11/2020 15.43.00) ID: 46da7253-fe78-47e2-a24b-2a7fd8a132f9
+InsertCashTransaction: User: Robert King (rking), kr. 10, Date: (27/11/2020 15.43.01) ID: 8c42feef-4d9e-4df5-8bff-0e457e0fa078
+InsertCashTransaction: User: Robert King (rking), kr. 10, Date: (27/11/2020 15.43.25) ID: 17fc165a-9648-4e5f-9df3-d72df64cc727
+InsertCashTransaction: User: Robert King (rking), kr. 10, Date: (27/11/2020 15.43.27) ID: b9680258-b17c-46bf-9ab6-d3701e8e50f2
+InsertCashTransaction: User: Robert King (rking), kr. 10000, Date: (27/11/2020 15.44.33) ID: f506c853-9460-4ae8-9e86-959b47ed786a
+BuyTransaction: 1 ½L vand & kildevand excl. pant (12 kr), User: rking, Date:(27/11/2020 15.44.42), ID: 808629a5-8534-453a-8b43-a208567735db
+BuyTransaction: 1 ½L vand & kildevand excl. pant (12 kr), User: rking, Date:(27/11/2020 15.44.50), ID: 2aa66a7e-3195-47a6-8de0-08a62ff69275
+BuyTransaction: 1 ½L vand & kildevand excl. pant (12 kr), User: rking, Date:(27/11/2020 15.44.51), ID: 4d1c2f4f-cc74-4dae-95fd-d1213b0bf340
+BuyTransaction: 1 ½L vand & kildevand excl. pant (12 kr), User: rking, Date:(27/11/2020 15.44.52), ID: 7c4ff35e-4bf0-4b78-af39-2801017aa6e0
+BuyTransaction: 1 ½L vand & kildevand excl. pant (12 kr), User: rking, Date:(27/11/2020 15.44.52), ID: eb54ba89-a31f-4c68-a9b3-612a4b135c93
+BuyTransaction: 1 ½L vand & kildevand excl. pant (12 kr), User: rking, Date:(27/11/2020 15.44.53), ID: 43cebeeb-2e24-4dee-9fa8-d64757555938
+BuyTransaction: 1 ½L vand & kildevand excl. pant (12 kr), User: rking, Date:(27/11/2020 15.44.54), ID: 5007378e-5f17-42d7-a98e-2063e61a2010
+BuyTransaction: 1 ½L vand & kildevand excl. pant (12 kr), User: rking, Date:(27/11/2020 15.44.55), ID: 59cd0048-3433-4c2e-8393-9d2f4c1f346e
+BuyTransaction: 1 ½L vand & kildevand excl. pant (12 kr), User: rking, Date:(27/11/2020 15.44.56), ID: 0dd8e583-1bb5-4675-bc94-cce601faeea6
+BuyTransaction: 1 ½L vand & kildevand excl. pant (12 kr), User: rking, Date:(27/11/2020 15.44.57), ID: e65e57ed-69d5-43f1-acfa-a28232873fe3
+BuyTransaction: 1 ½L vand & kildevand excl. pant (12 kr), User: rking, Date:(27/11/2020 15.44.57), ID: 648a5855-ae89-4564-9200-b59a33e77e63
+BuyTransaction: 1 ½L vand & kildevand excl. pant (12 kr), User: rking, Date:(27/11/2020 15.44.58), ID: b9920c6d-4ce0-438b-9a19-94ee0a228ced
+BuyTransaction: 1 ½L vand & kildevand excl. pant (12 kr), User: rking, Date:(27/11/2020 15.45.18), ID: 46b7a509-a9a3-4639-bc9e-afa2ee9247e9
+InsertCashTransaction: User: Robert King (rking), kr. 10000, Date: (27/11/2020 15.45.20) ID: 4130874d-401d-4ef0-87c3-99a8de68a860
+InsertCashTransaction: User: Robert King (rking), kr. 1000, Date: (27/11/2020 16.26.26) ID: 223cfe93-0b16-4dc2-a160-97c76640a587
+BuyTransaction: 1 ½L vand & kildevand excl. pant (12 kr), User: rking, Date:(27/11/2020 16.26.30), ID: 8843c4ff-c39d-4e41-8fc8-4d6713137c7f
+BuyTransaction: 1 ½L vand & kildevand excl. pant (12 kr), User: rking, Date:(27/11/2020 16.26.32), ID: 1508f873-3cc7-439d-9f6b-b8a2b83c0e37
+BuyTransaction: 1 ½L vand & kildevand excl. pant (12 kr), User: rking, Date:(27/11/2020 16.26.32), ID: f9fa9013-2749-4b42-9aac-91fcba29ecc0
+BuyTransaction: 1 ½L vand & kildevand excl. pant (12 kr), User: rking, Date:(27/11/2020 16.26.33), ID: 6298526e-3da0-4fdd-bdf7-3e7a166ac696
+BuyTransaction: 1 ½L vand & kildevand excl. pant (12 kr), User: rking, Date:(27/11/2020 16.26.34), ID: 3e3c560c-c7d1-4bae-b121-02e3c4a8c3df
+BuyTransaction: 1 ½L vand & kildevand excl. pant (12 kr), User: rking, Date:(27/11/2020 16.26.35), ID: 2637bc3f-147f-4c6f-a83f-2ecb547d0220
+BuyTransaction: 1 ½L vand & kildevand excl. pant (12 kr), User: rking, Date:(27/11/2020 16.27.05), ID: 9b8f342e-b766-4041-80d3-8cb3f132c42c
+BuyTransaction: 1 ½L vand & kildevand excl. pant (12 kr), User: rking, Date:(27/11/2020 16.27.06), ID: 066d1209-97e4-4a90-b408-33aed3d2b93d
+BuyTransaction: 1 ½L vand & kildevand excl. pant (12 kr), User: rking, Date:(27/11/2020 16.27.07), ID: 9cd4d80f-e22e-455c-8f13-2c3364c7d596
+BuyTransaction: 1 ½L vand & kildevand excl. pant (12 kr), User: rking, Date:(27/11/2020 16.27.11), ID: 83927886-259a-4ce2-a25d-05aebdbfe8aa
+BuyTransaction: 1 Frisk duft (1 kr), User: ndavo, Date:(27/11/2020 16.28.28), ID: 9a965d2a-e67f-489a-8b14-1b657e18c04f
+BuyTransaction: 1 Frisk duft (1 kr), User: ndavo, Date:(27/11/2020 16.28.31), ID: 46e38333-5656-47ac-be82-e9e0a55d4c67
+BuyTransaction: 1 Frisk duft (1 kr), User: ndavo, Date:(27/11/2020 16.28.31), ID: 1e99e211-f4ed-4c9b-bb85-e046b51877ba
+BuyTransaction: 1 Frisk duft (1 kr), User: ndavo, Date:(27/11/2020 16.28.32), ID: e446b80c-cd5c-4979-8f5a-77a8769e90cd
+BuyTransaction: 1 Frisk duft (1 kr), User: ndavo, Date:(27/11/2020 16.28.33), ID: e8735cd2-428c-4763-8565-cc02ec8dd6bc
+BuyTransaction: 1 Frisk duft (1 kr), User: ndavo, Date:(27/11/2020 16.28.33), ID: ab7243cd-2b40-42a4-a723-29703e9a46bb
+BuyTransaction: 1 Frisk duft (1 kr), User: ndavo, Date:(27/11/2020 16.28.34), ID: e2ac93cf-4e81-4ec5-8a98-7688defc8b9f
+BuyTransaction: 1 Frisk duft (1 kr), User: ndavo, Date:(27/11/2020 16.28.35), ID: 44ea9396-530e-4263-be41-9c168c98341a
+BuyTransaction: 1 Frisk duft (1 kr), User: ndavo, Date:(27/11/2020 16.28.36), ID: 3c766147-80a1-409b-a1ca-14bec21e02b7
+BuyTransaction: 1 Frisk duft (1 kr), User: ndavo, Date:(27/11/2020 16.28.37), ID: 5b11c47a-dd39-4bce-aff7-d72721480b7a
+BuyTransaction: 1 Frisk duft (1 kr), User: ndavo, Date:(27/11/2020 16.28.38), ID: 63633849-bfb5-4b6b-8b88-928677ba5ddf
+BuyTransaction: 1 Frisk duft (1 kr), User: ndavo, Date:(27/11/2020 16.28.39), ID: 78197084-6528-41ba-85c5-a756d2d17d97
+BuyTransaction: 1 Frisk duft (1 kr), User: ndavo, Date:(27/11/2020 16.28.40), ID: 90f0f278-edb7-4b46-83d3-32b7a516ff06
+BuyTransaction: 1 Frisk duft (1 kr), User: ndavo, Date:(27/11/2020 16.28.41), ID: 195f60f3-2262-4dff-a591-4f7c20df0d1d
+InsertCashTransaction: User: Robert King (rking), kr. 40, Date: (27/11/2020 16.31.12) ID: e9b3fb84-4c77-467a-8dde-26cebee53674
+BuyTransaction: 1 Frisk duft (1 kr), User: rking, Date:(27/11/2020 16.31.23), ID: 1c9f9fb5-14e9-41f6-ad24-cd5b61d3eb79
+BuyTransaction: 1 Frisk duft (1 kr), User: rking, Date:(27/11/2020 16.31.26), ID: 8a161f66-5373-48bc-9f37-bf609b73e25d
+BuyTransaction: 1 Frisk duft (1 kr), User: rking, Date:(27/11/2020 16.31.26), ID: 4ac748d6-70df-4668-acc2-0307a7820834
+BuyTransaction: 1 Frisk duft (1 kr), User: rking, Date:(27/11/2020 16.31.27), ID: c7eb8fd8-0cb8-4224-94a3-a47388024550
+BuyTransaction: 1 Frisk duft (1 kr), User: rking, Date:(27/11/2020 16.31.28), ID: 317073d6-fddb-4211-b9a5-25a227a72ecd
+BuyTransaction: 1 Frisk duft (1 kr), User: rking, Date:(27/11/2020 16.31.29), ID: 166b8a42-d808-4243-ade5-2a79b55e40ce
+BuyTransaction: 1 ½L vand & kildevand excl. pant (12 kr), User: ndavo, Date:(27/11/2020 17.53.09), ID: 88cef910-1883-4061-b580-982fb4a128a9
+BuyTransaction: 1 ½L vand & kildevand excl. pant (12 kr), User: ndavo, Date:(27/11/2020 17.53.13), ID: 5d1cc70b-0ac4-4cbf-ba9a-a7e30b3af703
+BuyTransaction: 1 ½L vand & kildevand excl. pant (12 kr), User: ndavo, Date:(27/11/2020 17.53.15), ID: 65442265-4ab9-4b88-9242-0ff179f96332
+BuyTransaction: 1 ½L vand & kildevand excl. pant (12 kr), User: ndavo, Date:(27/11/2020 17.54.05), ID: 8a7b15b6-8b4c-4221-b0af-da74c0074c65
+BuyTransaction: 1 ½L vand & kildevand excl. pant (12 kr), User: ndavo, Date:(27/11/2020 17.54.06), ID: a15805cb-856a-4938-92a4-d3e716b36903
+BuyTransaction: 1 ½L vand & kildevand excl. pant (12 kr), User: ndavo, Date:(27/11/2020 17.54.07), ID: 53a0321e-b8f1-4c22-bebf-6c0fa76e6040
+BuyTransaction: 1 ½L vand & kildevand excl. pant (12 kr), User: ndavo, Date:(27/11/2020 17.54.08), ID: 5babaea4-410e-4187-8c7a-505c2272ecc4
+BuyTransaction: 1 ½L vand & kildevand excl. pant (12 kr), User: ndavo, Date:(27/11/2020 17.54.23), ID: 6d3d0285-13e2-4e97-9f40-310f8c0aa41f
+BuyTransaction: 1 ½L vand & kildevand excl. pant (12 kr), User: ndavo, Date:(27/11/2020 17.54.26), ID: 0af642fc-de21-48a5-8a53-427e5a94fbf9
+BuyTransaction: 1 ½L vand & kildevand excl. pant (12 kr), User: ndavo, Date:(27/11/2020 17.54.30), ID: e5b5bbaa-18b3-4a18-9c9d-59ba228f4c72
+BuyTransaction: 1 ½L vand & kildevand excl. pant (12 kr), User: ndavo, Date:(27/11/2020 17.54.55), ID: b334441a-d043-40ca-9c2a-3cffe9c042ca
+BuyTransaction: 1 ½L vand & kildevand excl. pant (12 kr), User: ndavo, Date:(27/11/2020 17.57.49), ID: 169a5a0b-1aed-491d-99d2-4c561b69181b
+BuyTransaction: 1 Øl(f.eks. Thy, Guld, 47, T-FF) (10 kr), User: ndavo, Date:(27/11/2020 17.57.54), ID: ad23a164-9c93-4c39-ab6e-f535fb29d870
+InsertCashTransaction: User: Robert King (rking), kr. 200, Date: (10/01/2021 14:01:16) ID: 8503ae19-7edb-4a8f-9608-03444fc850db
+InsertCashTransaction: User: Robert King (rking), kr. 10, Date: (10/01/2021 14:01:44) ID: 7e5da1ea-7500-4f31-9f29-f82626c32b58
+InsertCashTransaction: User: Robert King (rking), kr. 100, Date: (10/01/2021 14.02.26) ID: 040f2a9d-d2b2-4b55-916b-1a4adb929f97
+BuyTransaction: 2 ½L vand & kildevand excl. pant (24 kr), User: rking, Date:(10/01/2021 14.03.04), ID: 0da88d2f-04b7-4de8-a17a-7da53fa14097
+InsertCashTransaction: User: Robert King (rking), kr. 30, Date: (10/01/2021 16.22.40) ID: cc77506b-eb1b-4420-8315-0ef8f8c77bac
+BuyTransaction: 1 ½L vand & kildevand excl. pant (12 kr), User: rking, Date:(10/01/2021 16.22.52), ID: 656d5b4e-cbad-4e09-a53b-88d6d6e2e26a
+InsertCashTransaction: User: Robert King (rking), kr. 200, Date: (31/03/2021 17.48.55) ID: cf2f1f0b-ce34-4ef7-8f3b-1a5c4a5e356e
